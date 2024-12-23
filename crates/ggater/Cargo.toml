@@ -1,0 +1,11 @@
+[package]
+name = "ggater"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+dashmap = "6.1.0"
+serde = { version = "1.0.216", features = ["serde_derive"] }
+sqlite = "0.36.1"
+walkdir = "2.5.0"

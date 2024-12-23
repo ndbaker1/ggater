@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "ggater",
+    "ggater-server",
+]
